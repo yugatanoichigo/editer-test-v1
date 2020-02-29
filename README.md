@@ -15,7 +15,7 @@ In addition, if an article management system is created, it can be used as part 
 <br>
 
 ■ エディタ機能 Editor function<br>
-*入力要素 Input element<br>
+* 入力要素 Input element<br>
 &emsp;- 記事タイトル Article title<br>
 &emsp;- 記事ID  Article ID<br>
 &emsp;- 文章 Writing<br>
@@ -24,7 +24,7 @@ In addition, if an article management system is created, it can be used as part 
 &emsp;- カテゴリ Category<br>
 &emsp;- 公開状態 Published state<br>
 <br>
-*保存による入力データファイルの生成 Generate input data file by saving<br>
+* 保存による入力データファイルの生成 Generate input data file by saving<br>
     （データファイルの作成ディレクトリは、プログラム内のパス変数を変更してください。 Change the path variable in the program for the data file creation directory.）
 
 <br><br>
