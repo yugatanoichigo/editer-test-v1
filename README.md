@@ -1,45 +1,47 @@
 # editer-test-v1
-HTMLのcontentseditableを使用したエディタのテスト
+HTMLのcontentseditableを使用したエディタのテスト<br>
 Testing the editor using HTML contentseditable
 
 <br><br>
 
-ブログを作成する上で必要になる、HTMLで作成された文章作成ツールです。
+ブログを作成する上で必要になる、HTMLで作成された文章作成ツールです。<br>
 It is a text creation tool created in HTML, which is necessary for creating a blog.
 
 <br><br>
 
-追加で、記事管理システムなどを作成すればコンテンツマネジメントシステム(CMS)の一部として使用することができます。
+追加で、記事管理システムなどを作成すればコンテンツマネジメントシステム(CMS)の一部として使用することができます。<br>
 In addition, if an article management system is created, it can be used as part of a content management system (CMS).
 
 <br><br>
 
 ■ エディタ機能 Editor function<br>
-  ・入力要素 Input element
-    - 記事タイトル Article title
-    - 記事ID  Article ID
-    - 文章 Writing
-    - 画像 Image
-    - タグ Tags
-    - カテゴリ Category
-    - 公開状態 Published state
-  <br>
-  ・保存による入力データファイルの生成 Generate input data file by saving
+&emsp;・入力要素 Input element<br>
+&emsp;&emsp;- 記事タイトル Article title<br>
+&emsp;&emsp;- 記事ID  Article ID<br>
+&emsp;&emsp;- 文章 Writing<br>
+&emsp;&emsp;- 画像 Image<br>
+&emsp;&emsp;- タグ Tags<br>
+&emsp;&emsp;- カテゴリ Category<br>
+&emsp;&emsp;- 公開状態 Published state<br>
+  <br><br>
+&emsp;・保存による入力データファイルの生成 Generate input data file by saving<br>
     （データファイルの作成ディレクトリは、プログラム内のパス変数を変更してください。 Change the path variable in the program for the data file creation directory.）
 
 <br><br>
 
 ■ 外観 Appearance
+* ツール名は、NOGLE EDITERです。（仮）<br>
+* The tool name is NOGLE EDITER. (Temporary)
 <img src="https://media.noble-gleam.com/github/editer-test-v1.png" style="width:70%;" alt="外観 Appearance">
 
 <br><br>
 
 ■ 補足 Supplement
-  これは、最初に作ったツールです。そのため、バグが多く含まれる可能性があります。
-  This is the first tool we created. Therefore, it may contain many bugs.
+&emsp;これは、最初に作ったツールです。そのため、バグが多く含まれる可能性があります。<br>
+&emsp;This is the first tool we created. Therefore, it may contain many bugs.
   <br>
-  また、今後、このツールを発展させていくつもりです。
-  We also intend to develop this tool in the future.
+&emsp;また、今後、このツールを発展させていくつもりです。<br>
+&emsp;We also intend to develop this tool in the future.
 
 <br><br>
 
