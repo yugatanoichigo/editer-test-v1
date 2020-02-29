@@ -162,7 +162,7 @@ function image_list() {
  * ############################################################# */
 function save() {
 	//データファイルを保存するパス Path to save data file
-	var save_file_path = './data/data/';
+	var save_file_path = './data/';
 
 	var title  = $('#page_title').val();		//タイトル Title
 	var id     = $('#article_id').val();		//記事ID Article ID
@@ -198,7 +198,13 @@ function save() {
 		}).done(function(data) {
 			console.log(data);
 
+			$('#save_text').show();
+			$('#save_text').html('保存しました<br>Saved');
 			$('#error').hide();
+
+			setTimeout(function() {
+				$('#save_text').fadeOut(500);
+			}, 3000);
 		}).fail(function() {
 			alert("save::fail");
 		});
