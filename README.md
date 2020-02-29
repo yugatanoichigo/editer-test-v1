@@ -2,17 +2,17 @@
 HTMLのcontentseditableを使用したエディタのテスト<br>
 Testing the editor using HTML contentseditable
 
-<br><br>
+<br>
 
 ブログを作成する上で必要になる、HTMLで作成された文章作成ツールです。<br>
 It is a text creation tool created in HTML, which is necessary for creating a blog.
 
-<br><br>
+<br>
 
 追加で、記事管理システムなどを作成すればコンテンツマネジメントシステム(CMS)の一部として使用することができます。<br>
 In addition, if an article management system is created, it can be used as part of a content management system (CMS).
 
-<br><br>
+<br>
 
 ■ エディタ機能 Editor function<br>
 &emsp;・入力要素 Input element<br>
@@ -23,7 +23,7 @@ In addition, if an article management system is created, it can be used as part 
 &emsp;&emsp;- タグ Tags<br>
 &emsp;&emsp;- カテゴリ Category<br>
 &emsp;&emsp;- 公開状態 Published state<br>
-<br><br>
+<br>
 &emsp;・保存による入力データファイルの生成 Generate input data file by saving<br>
     （データファイルの作成ディレクトリは、プログラム内のパス変数を変更してください。 Change the path variable in the program for the data file creation directory.）
 
