@@ -23,7 +23,6 @@ In addition, if an article management system is created, it can be used as part 
 &emsp;- タグ Tags<br>
 &emsp;- カテゴリ Category<br>
 &emsp;- 公開状態 Published state<br>
-<br>
 * 保存による入力データファイルの生成 Generate input data file by saving<br>
     （データファイルの作成ディレクトリは、プログラム内のパス変数を変更してください。 Change the path variable in the program for the data file creation directory.）
 
