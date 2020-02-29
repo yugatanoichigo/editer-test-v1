@@ -154,7 +154,10 @@
 		<div style="text-align: center;">
 			<!-- エラー Error text -->
 			<div id="error"></div>
-
+			
+			<!-- 保存状態 Save state -->
+			<div id="save_text" style="text-align: center;"></div>
+			
 			<!-- 保存ボタン Save button -->
 			<span id="save" class="button" style="padding: 20px 50px;"><b>保存する Save</b></span>
 		</div>
