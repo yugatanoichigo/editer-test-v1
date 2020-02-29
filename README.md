@@ -1,4 +1,4 @@
 # editer-test-v1
 HTMLのcontentseditableを使用したエディタのテスト Testing the editor using HTML contentseditable
 
-<img src="https://media.noble-gleam.com/github/editer-test-v1-master.png" style="width:70%;">
+<img src="https://media.noble-gleam.com/github/editer-test-v1.png" style="width:70%;">
