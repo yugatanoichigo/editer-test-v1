@@ -4,7 +4,7 @@
 	<title>NOGLE EDITER</title>
 	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:300&display=swap" rel="stylesheet">
 	<link href="./css/style.css" rel="stylesheet" type="text/css">
-	<script src="../includes/jquery.min.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="./js/main.js" type="text/javascript" async defer></script>
 </head>
 <body>
