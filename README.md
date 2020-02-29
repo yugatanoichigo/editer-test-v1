@@ -1,2 +1,2 @@
 # editer-test-v1
-HTMLのcontentseditableを使用したエディタのテスト
+HTMLのcontentseditableを使用したエディタのテスト Testing the editor using HTML contentseditable
